@@ -1,0 +1,29 @@
+
+.heading{
+    background-color: #ff000f;
+    text-align: center;
+    padding: 2 rem;
+}
+
+h1{
+    font-size: 3rem;
+}
+
+.container{
+    background-color: black;
+    color: aliceblue;
+    text-align: center;
+    font-size: 2rem;
+}
+
+p{
+    font-size: 2rem;
+    text-align: center;
+}
+
+.foot-container{
+    background-color:#ff000f;
+    padding: 3rem; 
+    text-align: center;
+    font-size: 2rem;
+}
